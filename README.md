@@ -26,7 +26,7 @@ Clockwork.windUp({
 
 ## Example ##
 
-The following code shows a complete example for a (still simple) analog clock using this clock size calculator:
+The following code shows a complete example for a (still simple) analog clock using a bitmap background:
 
 ```
 require('https://raw.githubusercontent.com/rozek/banglejs-2-widgets-on-background/main/drawWidgets.js');
