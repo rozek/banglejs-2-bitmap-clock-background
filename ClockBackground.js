@@ -10,10 +10,10 @@
       } else {
         currentImage = require('Storage').read(currentBitmap);
       }
-
-      g.clear();
-      if (currentImage != null) { g.drawImage(currentImage, 0,0); }
     }
+
+    g.clear();
+    if (currentImage != null) { g.drawImage(currentImage, 0,0); }
   };
 })();
 
