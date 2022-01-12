@@ -1,4 +1,4 @@
-(function () {
+;(function () {
   let currentBitmap, currentImage;
 
   exports.draw = function draw (Settings) {
