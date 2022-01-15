@@ -4,7 +4,7 @@
 
   Clockwork.windUp({
     background:require('https://raw.githubusercontent.com/rozek/banglejs-2-bitmap-clock-background/main/ClockBackground.js'),
-    face:      require('https://raw.githubusercontent.com/rozek/banglejs-2-four-fold-face/main/ClockFace.js'),
+    face:      require('https://raw.githubusercontent.com/rozek/banglejs-2-four-numbered-face/main/ClockFace.js'),
     complications:{
       b:require('https://raw.githubusercontent.com/rozek/banglejs-2-date-complication/main/Complication.js')
     }
